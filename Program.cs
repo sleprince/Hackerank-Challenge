@@ -17,7 +17,7 @@ public class Solution
     public static int BirthdayCandles()
     {
 
-        int[] candles = new int [4]{ 2, 4, 4, 1 };
+        int[] candles = new int [10]{ 82, 49, 82, 82, 41, 82, 15, 63, 38, 25 };
 
         int result = 0;
         int max = 0;
@@ -27,7 +27,8 @@ public class Solution
             int j = 1;
             if (candles[i] >= candles[j])
             {
-                max = candles[i];
+                if(candles[i] > max)
+                    max = candles[i];
             }
 
             j++;

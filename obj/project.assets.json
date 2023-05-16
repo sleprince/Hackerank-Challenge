@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bristol Culture\\.nuget\\packages\\": {}
+    "C:\\Users\\da_pr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bristol Culture\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\da_pr\\Documents\\GitHub\\Hackerank-Challenge\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Bristol Culture\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Bristol Culture\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bristol Culture\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\da_pr\\Documents\\GitHub\\Hackerank-Challenge\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\da_pr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\da_pr\\Documents\\GitHub\\Hackerank-Challenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bristol Culture\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\da_pr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
